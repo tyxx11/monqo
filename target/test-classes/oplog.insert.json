@@ -1,0 +1,42 @@
+{
+  "h": {
+    "$numberLong": "2440281478878332767"
+  },
+  "ns": "campaign_message.campaign_message",
+  "o": {
+    "_id": {
+      "$oid": "55b5da9e62d417fe26fb6db4"
+    },
+    "appId": "55924bc260b2a70e2a54ae2f",
+    "archived": false,
+    "campaignResult": {
+      "click": 0,
+      "impression": 0,
+      "send": 0,
+      "session": 0
+    },
+    "createdAt": {
+      "$numberLong": "1437981342328"
+    },
+    "creativeCount": 0,
+    "end": -1,
+    "scheduling": null,
+    "sends": 0,
+    "status": "0",
+    "subscribers": 0,
+    "targetPer": 100,
+    "title": "新活动",
+    "type": "1",
+    "updatedAt": {
+      "$numberLong": "1437981342328"
+    }
+  },
+  "op": "i",
+  "ts": {
+    "$timestamp": {
+      "t": 1437981344,
+      "i": 1
+    }
+  },
+  "v": 2
+}

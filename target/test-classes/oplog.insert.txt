@@ -1,0 +1,1 @@
+{"h":{"$numberLong":"-795704939622367902"},"ns":"test.test_002","o":{"_id":"55bae9991c2687862d2492f9","createdAt":{"$numberLong":"1438312857656"},"updatedAt":{"$numberLong":"1438312857656"}},"op":"i","ts":{"$timestamp":{"t":1438312851,"i":1}},"v":2}
